@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LinearUI">
+
+        <attr name="home_icon" format="reference"/>
+        <attr name="home_content" format="string"/>
+    </declare-styleable>
+</resources>
